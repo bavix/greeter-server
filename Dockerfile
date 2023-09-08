@@ -29,4 +29,4 @@ COPY --from=builder /src/greeter .
 
 USER greeter:greeter
 
-CMD ["/greeter"]
+ENTRYPOINT ["/greeter"]
