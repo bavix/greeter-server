@@ -1,5 +1,17 @@
 # Changelog
 
+## v1.0.7 - 2024-02-28
+
+### What's Changed
+
+* golang 1.22 by [@rez1dent3](https://github.com/rez1dent3) in https://github.com/bavix/greeter-server/pull/13
+
+### New Contributors
+
+* [@rez1dent3](https://github.com/rez1dent3) made their first contribution in https://github.com/bavix/greeter-server/pull/13
+
+**Full Changelog**: https://github.com/bavix/greeter-server/compare/v1.0.6...v1.0.7
+
 ## v1.0.6 - 2024-02-27
 
 ### What's Changed
