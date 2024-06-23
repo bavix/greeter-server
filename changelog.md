@@ -1,5 +1,15 @@
 # Changelog
 
+## v1.0.8 - 2024-06-18
+
+### What's Changed
+
+* Bump bavix/.github from 0.2.4 to 0.2.5 by [@dependabot](https://github.com/dependabot) in https://github.com/bavix/greeter-server/pull/14
+* Bump docker/build-push-action from 5 to 6 by [@dependabot](https://github.com/dependabot) in https://github.com/bavix/greeter-server/pull/15
+* Bump bavix/.github from 0.2.5 to 0.3.0 by [@dependabot](https://github.com/dependabot) in https://github.com/bavix/greeter-server/pull/16
+
+**Full Changelog**: https://github.com/bavix/greeter-server/compare/v1.0.7...v1.0.8
+
 ## v1.0.7 - 2024-02-28
 
 ### What's Changed
