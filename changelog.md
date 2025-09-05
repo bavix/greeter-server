@@ -1,5 +1,14 @@
 # Changelog
 
+## v1.1.1 - 2025-09-05
+
+### What's Changed
+
+* Bump actions/checkout from 4 to 5 by [@dependabot](https://github.com/dependabot)[bot] in https://github.com/bavix/greeter-server/pull/20
+* Bump bavix/.github from 0.3.3 to 0.4.0 by [@dependabot](https://github.com/dependabot)[bot] in https://github.com/bavix/greeter-server/pull/21
+
+**Full Changelog**: https://github.com/bavix/greeter-server/compare/v1.1.0...v1.1.1
+
 ## v1.0.8 - 2024-06-18
 
 ### What's Changed
