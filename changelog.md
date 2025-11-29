@@ -1,5 +1,14 @@
 # Changelog
 
+## v1.1.2 - 2025-11-29
+
+### What's Changed
+
+* Bump bavix/.github/.github/workflows/changelog.yml from 0.4.0 to 0.4.1 by [@dependabot](https://github.com/dependabot)[bot] in https://github.com/bavix/greeter-server/pull/23
+* Bump actions/checkout from 5 to 6 by [@dependabot](https://github.com/dependabot)[bot] in https://github.com/bavix/greeter-server/pull/22
+
+**Full Changelog**: https://github.com/bavix/greeter-server/compare/v1.1.1...v1.1.2
+
 ## v1.1.1 - 2025-09-05
 
 ### What's Changed
